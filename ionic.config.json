@@ -2,7 +2,8 @@
   "name": "moodlemobile",
   "integrations": {
     "cordova": {},
-    "gulp": {}
+    "gulp": {},
+    "capacitor": {}
   },
   "type": "ionic-angular",
   "watchPatterns": [],

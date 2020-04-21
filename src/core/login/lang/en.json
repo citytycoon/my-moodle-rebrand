@@ -10,7 +10,7 @@
     "changepasswordreconnectinstructions": "Click the following button to reconnect to the site. (Take into account that if you didn't change your password successfully, you would return to the previous screen).",
     "confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "connect": "Connect!",
-    "connecttomoodle": "Connect to Moodle",
+    "connecttomoodle": "Connect to Bilton",
     "contactyouradministrator": "Contact your site administrator for further help.",
     "contactyouradministratorissue": "Please ask your site administrator to check the following issue: {{$a}}",
     "createaccount": "Create my new account",

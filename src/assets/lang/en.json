@@ -1693,7 +1693,7 @@
     "core.login.changepasswordreconnectinstructions": "Click the following button to reconnect to the site. (Take into account that if you didn't change your password successfully, you would return to the previous screen).",
     "core.login.confirmdeletesite": "Are you sure you want to delete the site {{sitename}}?",
     "core.login.connect": "Connect!",
-    "core.login.connecttomoodle": "Connect to Moodle",
+    "core.login.connecttomoodle": "Connect to Bilton",
     "core.login.connecttomoodleapp": "You are trying to connect to a regular Moodle site. Please download the official Moodle app to access this site.",
     "core.login.connecttoworkplaceapp": "You are trying to connect to a Moodle Workplace site. Please download the Moodle Workplace app to access this site.",
     "core.login.contactyouradministrator": "Contact your site administrator for further help.",
