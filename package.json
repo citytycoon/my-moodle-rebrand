@@ -165,8 +165,8 @@
       },
       "cordova-plugin-customurlscheme": {
         "URL_SCHEME": "moodlemobile",
-        "ANDROID_SCHEME": " ",
-        "ANDROID_HOST": " ",
+        "ANDROID_SCHEME": "",
+        "ANDROID_HOST": "",
         "ANDROID_PATHPREFIX": "/"
       },
       "cordova-plugin-device": {},
@@ -196,7 +196,10 @@
       },
       "cordova-plugin-geolocation": {
         "GEOLOCATION_USAGE_DESCRIPTION": "To locate you"
-      }
+      },
+      "es6-promise-plugin": {},
+      "cordova-support-google-services": {},
+      "phonegap-plugin-multidex": {}
     }
   },
   "main": "desktop/electron.js",
